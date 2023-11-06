@@ -110,8 +110,8 @@ body {background: #F1F1F1;}
 }
 
 .content {
-    display: block;
-    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
     jastify-content: space-between;
     align-items: center;
 }
