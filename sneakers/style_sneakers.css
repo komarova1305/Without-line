@@ -149,6 +149,11 @@ li {
     flex: auto;
 }
 
+.big_container {
+	display: flex;
+	flex-direction: row;
+}
+
 .conteiner {
     display: flex;
     flex-direction: column;
