@@ -111,6 +111,8 @@ body {background: #F1F1F1;}
 
 .content {
     display: flex;
+    flex-direction: column;
+    jastify-content: space-between;
     width: 73%;
 }
 
