@@ -111,11 +111,9 @@ body {background: #F1F1F1;}
 
 .content {
     display: flex;
-    width: 73%;
-    flex-wrap: wrap;
+    flex-direction: column;
     jastify-content: space-between;
     align-items: center;
-    gap: 24px;
 }
 
 .subtitle {
@@ -152,11 +150,12 @@ li {
 }
 
 .big_container {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	width: 73%;
-	gap: 24px;
+	 display: flex;
+   	 width: 73%;
+    	flex-wrap: wrap;
+    	jastify-content: space-between;
+   	 align-items: center;
+    	gap: 24px;
 }
 
 .conteiner {
