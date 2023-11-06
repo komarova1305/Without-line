@@ -22,10 +22,12 @@
 	      }
 .subtitle {
 	font-family: Anonymous Pro;
-	font-size: 11px;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 32px;
+	text-align: left;
 	  }
-.content {
-	display: flex;
+.content {display: flex;
     flex-direction: column;
     align-items: center;
 	 }
@@ -50,9 +52,10 @@ body {background: #F1F1F1;}
     align-items: center;
     background-color:#121723;
     width: 100%;
+    padding-top: 24px;
 }
 
-.footer_conteiner {
+.footer_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
@@ -142,15 +145,6 @@ li {
     align-items: center;
     width: 100%;
     flex: auto;
-}
-
-.line {
-	display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start; 
-    width: 100%;
-    justify-content: space-between; 
-    column-gap: 24px;
 }
 
 .container {
