@@ -156,6 +156,7 @@ li {
     	jastify-content: space-between;
    	 align-items: center;
     	gap: 24px;
+	background: red;
 }
 
 .conteiner {
