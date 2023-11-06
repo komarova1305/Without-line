@@ -110,7 +110,7 @@ body {background: #F1F1F1;}
 }
 
 .content {
-    display: block;
+    display: flex;
     width: 73%;
 }
 
