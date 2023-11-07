@@ -149,6 +149,13 @@ li {
     align-items: center;
 }
 
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .big_container {
 	 display: flex;
     	flex-wrap: wrap;
