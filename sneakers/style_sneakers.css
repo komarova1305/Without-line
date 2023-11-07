@@ -29,6 +29,7 @@
 	  }
 .content {display: flex;
     flex-direction: column;
+    jastify-content: center;
     align-items: center;
 	 }
 }
