@@ -118,7 +118,7 @@ body {background: #F1F1F1;}
 .content {
     display: flex;
     flex-wrap: wrap;
-    jastify-content: center;
+    justify-content: center;
     align-items: center;
 }
 
@@ -158,7 +158,7 @@ li {
 	 display: flex;
     	flex-wrap: wrap;
 	width: 73%;
-    	jastify-content: space-between;
+    	justify-content: space-between;
    	align-content: flex-start;
     	gap: 24px;
 	background: red;
