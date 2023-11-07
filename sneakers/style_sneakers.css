@@ -146,17 +146,18 @@ li {
 }
 
 .main {
-    display: flex;  
+     display: flex; 
+    justify-content: flex-start; 
     flex-direction: column;
-    justify-content: flex-start;
     align-items: center;
-    width: 73%;
+    width: 100%;
     flex: auto;
 }
 
 .big_container {
 	 display: flex;
     	flex-wrap: wrap;
+	width: 73%;
     	jastify-content: space-between;
    	align-content: flex-start;
     	gap: 24px;
