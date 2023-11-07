@@ -151,7 +151,6 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: blue;
 }
 
 .big_container {
@@ -161,7 +160,6 @@ li {
     	justify-content: space-between;
    	align-content: flex-start;
     	gap: 24px;
-	background: red;
 }
 
 .conteiner {
