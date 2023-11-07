@@ -147,12 +147,10 @@ li {
 }
 
 .main {
-     display: flex; 
-    justify-content: center;
+     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    width: 100%;
-    flex: auto;
 }
 
 .big_container {
