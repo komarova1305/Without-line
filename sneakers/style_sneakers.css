@@ -41,6 +41,7 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     background: white;
     padding-top: 24px;
+    object-fit: contain;
 }
 
 .footer {
@@ -49,6 +50,7 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     background-color:#121723;
     padding: 24px 0;
+    object-fit: contain;
 }
 
 .footer_container {
@@ -59,10 +61,12 @@ body {background: #F1F1F1; margin: 0;}
 }
 
 .header_container {
-    display: flex;
-    justify-content: space-between; 
-    padding: 0px 150px;
-    background: red;
+    	display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0px 150px 0px 150px;
 }
 
 .footer_links {
