@@ -149,6 +149,7 @@ li {
     justify-content: center;
     align-items: center;
     width: 73%;
+    gap: 24px;
 }
 
 .big_container {
