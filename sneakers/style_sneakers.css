@@ -20,7 +20,7 @@
 	width: Hug (108px);
 	height: Hug (20px);
 	      }
-.subtitle {font-size: 32px;}
+.subtitle {font-hight: 10px;}
 	
 .main {
     display: flex;
@@ -110,7 +110,7 @@ body {background: #F1F1F1; margin: 0;}
     display: flex;
     justify-content: flex-start;
     font-family: "Anonymous Pro", sans-serif;
-    font-size: 48px;
+    font-hight: 48px;
     font-weight: 700;
 }
 
