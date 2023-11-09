@@ -35,13 +35,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 0;
 }
 .big_container {width: 90%}
 }
 
 a {text-decoration: none; color:black;}
 
-body {background: #F1F1F1;}
+body {background: #F1F1F1; margin: 0;}
 
 .header {
     display: flex;
