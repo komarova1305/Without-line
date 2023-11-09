@@ -108,8 +108,12 @@ body {background: #F1F1F1; margin: 0;}
 
 .subtitle {
     font-family: "Anonymous Pro", sans-serif;
-    font-hight: 48px;
+    font-size: 48px;
     font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+
 }
 
 li {
