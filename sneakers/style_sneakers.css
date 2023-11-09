@@ -185,8 +185,6 @@ li {
 }
 
 .container__title {
-    display: flex;
-    justify-content: space-between;
     font-size: 26px;
     font-weight: 700;
 }
