@@ -10,8 +10,8 @@
 }
 
 @media (max-width: 768px) {
-.header_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
-.footer_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
+.header_container {width: 100%; flex-direction: column; justify-content: space-between;}
+.footer_container {width: 100%; flex-direction: column; justif-content: space-between;}
 .header_links {
 	width: Hug (108px);
 	height: Hug (20px);
@@ -146,7 +146,7 @@ li {
     justify-content: center;
     align-items: center;
     width: 73%;
-    gap: 0 24px;
+    gap: 24px;
 }
 
 .big_container {
