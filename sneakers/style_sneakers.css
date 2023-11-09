@@ -10,8 +10,8 @@
 }
 
 @media (max-width: 768px) {
-.header_container {background: red; flex-direction: column; justify-content: space-between;}
-.footer_container {padding: 0px; flex-direction: column; justify-content: space-between;}
+.header_container {flex-direction: column; justify-content: space-between;}
+.footer_container {flex-direction: column; justify-content: space-between;}
 .header_links {
 	width: Hug (108px);
 	height: Hug (20px);
@@ -50,7 +50,6 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     background-color:#121723;
     width: 100%;
-    padding-top: 24px;
 }
 
 .footer_container {
