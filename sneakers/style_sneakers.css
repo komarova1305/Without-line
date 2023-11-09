@@ -182,7 +182,6 @@ li {
     max-width: 364px;
     flex-direction: column;
     border-radius: 0px, 0px, 12px, 12px;
-    padding: 32px 24px;
     gap: 12px;
 }
 
