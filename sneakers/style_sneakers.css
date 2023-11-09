@@ -112,8 +112,6 @@ body {background: #F1F1F1; margin: 0;}
     font-weight: 700;
     line-height: 32px;
     letter-spacing: 0em;
-    justify-content: flex-start;
-
 }
 
 li {
@@ -141,7 +139,7 @@ li {
 .content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     gap: 24px;
 }
