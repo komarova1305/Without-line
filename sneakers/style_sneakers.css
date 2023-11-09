@@ -147,6 +147,7 @@ li {
     align-items: center;
     width: 73%;
     gap: 24px;
+    background: light-blue;
 }
 
 .big_container {
