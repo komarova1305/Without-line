@@ -64,13 +64,13 @@ body {background: #F1F1F1; margin: 0;}
 }
 
 .footer_container {
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: space-between; 
 }
 
 .header_container {
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: space-between; 
 }
