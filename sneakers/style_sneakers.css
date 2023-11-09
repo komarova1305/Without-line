@@ -107,8 +107,6 @@ body {background: #F1F1F1; margin: 0;}
 }
 
 .subtitle {
-    display: flex;
-    justify-content: flex-start;
     font-family: "Anonymous Pro", sans-serif;
     font-hight: 48px;
     font-weight: 700;
