@@ -48,7 +48,7 @@ a {text-decoration: none; color:black;}
 body {background: #F1F1F1; margin: 0;}
 
 .header {
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     align-items: center;
     background: white;
@@ -56,7 +56,7 @@ body {background: #F1F1F1; margin: 0;}
 }
 
 .footer {
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     align-items: center;
     background-color:#121723;
