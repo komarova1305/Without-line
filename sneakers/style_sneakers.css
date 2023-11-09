@@ -163,7 +163,6 @@ li {
 .container {
     display: flex;
     flex-direction: column;
-    width: 100%;
     min-height: 72px;
     max-width: 364px;
     font-family: "Anonymous Pro", sans-serif;
@@ -174,8 +173,7 @@ li {
 .text {
     background: white;
     display: flex;
-    width: 100%;
-    max-width: 371px;
+    max-width: 364px;
     flex-direction: column;
     border-radius: 0 0 12px 12px;
     padding: 32px 24px;
