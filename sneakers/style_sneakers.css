@@ -57,15 +57,12 @@ body {background: #F1F1F1;}
     flex-direction: column;
     align-items: center;
     background-color:#121723;
-    width: 100%;
-    padding-top: 24px;
+    padding: 24px 0;
 }
 
 .footer_container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between; 
-    width: 73%;
+    flex-direction: column;
+    gap: 32px;
 }
 
 .header_container {
@@ -188,6 +185,8 @@ li {
 }
 
 .container__title {
+    display: flex;
+    justify-content: space-between;
     font-size: 26px;
     font-weight: 700;
 }
