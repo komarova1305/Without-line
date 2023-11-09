@@ -165,7 +165,7 @@ li {
 
 .text {
     background: white;
-    display: block;
+    display: inline-block;
     max-width: 371px;
     flex-direction: column;
     border-radius: 0 0 12px 12px;
