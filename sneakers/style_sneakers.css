@@ -164,7 +164,7 @@ li {
     display: flex;
     flex-direction: column;
     min-height: 72px;
-    max-width: 364px;
+    max-width: 371px;
     font-family: "Anonymous Pro", sans-serif;
     justify-content: space-between; 
     border-radius: 12px;
@@ -173,7 +173,7 @@ li {
 .text {
     background: white;
     display: flex;
-    max-width: 364px;
+    max-width: 371px;
     flex-direction: column;
     border-radius: 0 0 12px 12px;
     padding: 0 24px;
