@@ -170,20 +170,22 @@ li {
     flex-direction: column;
     width: 100%;
     min-height: 72px;
-    max-width: 371px;
+    max-width: 364px;
     font-family: "Anonymous Pro", sans-serif;
     justify-content: space-between; 
     border-radius: 12px;
-    background: white;
     margin-bottom: 24px;
 }
 
 .text {
-    display: block;
+    background: white;
+    display: flex;
+    width: 100%;
+    max-width: 364px;
+    flex-direction: column;
     border-radius: 12px;
-    max-width: 371px;
-    padding-left: 24px;
-    gap: 24px;
+    padding: 32px 24px;
+    gap: 12px;
 }
 
 .container__title {
