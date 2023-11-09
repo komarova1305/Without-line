@@ -61,8 +61,10 @@ body {background: #F1F1F1;}
 }
 
 .footer_container {
-    flex-direction: column;
-    gap: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    width: 73%;
 }
 
 .header_container {
@@ -197,7 +199,7 @@ li {
 }
 
 .img_sneakers {
-    width: 364px;
+    width: 371px;
     height: 254px;
     border-radius: 12px, 12px, 0px, 0px;
 }
