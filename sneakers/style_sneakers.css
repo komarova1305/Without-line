@@ -21,6 +21,8 @@
 	justify-content: space-between;
 	align-items: center;
 	}
+.footer {padding: 24px 16px;}
+.header {padding: 24px 16px;}
 
 .header_links {
 	width: Hug (108px);
