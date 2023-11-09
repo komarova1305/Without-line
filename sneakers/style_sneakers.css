@@ -14,15 +14,15 @@
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
+	padding: 24px 16px;
 	background: green;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
+	padding: 24px 16px;
 	}
-.footer {padding: 24px 16px;}
-.header {padding: 24px 16px;}
 
 .header_links {
 	width: Hug (108px);
@@ -52,7 +52,6 @@ body {background: #F1F1F1; margin: 0;}
     flex-direction: column;
     align-items: center;
     background: white;
-    padding: 24px 150px;
 }
 
 .footer {
@@ -60,19 +59,20 @@ body {background: #F1F1F1; margin: 0;}
     flex-direction: column;
     align-items: center;
     background-color:#121723;
-    padding: 24px 150px;
 }
 
 .footer_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    padding: 24px 150px;
 }
 
 .header_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    padding: 24px 150px;
 }
 
 ul {
