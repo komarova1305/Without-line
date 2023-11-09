@@ -20,9 +20,7 @@
 	width: Hug (108px);
 	height: Hug (20px);
 	      }
-.subtitle {
-	font-size: 1px;
-	  }
+.subtitle {font-size: 1px;}
 	
 .main {
     display: flex;
