@@ -27,9 +27,7 @@
 	line-height: 32px;
 	text-align: left;
 	  }
-.content {
-    justify-content: center;
-	 }
+	
 .main {
     display: flex;
     flex-direction: column;
