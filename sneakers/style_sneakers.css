@@ -150,6 +150,7 @@ li {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    width: 73%;
 }
 
 .big_container {
