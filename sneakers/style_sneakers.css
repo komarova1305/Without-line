@@ -16,7 +16,8 @@
 	justify-content: space-between;
 	align-items: center;
 	height: Hug (156px);
-	width: 140%;
+	max-width: 768px;
+	width: 90%;
 	background: green;
 	}
 .footer_container {
