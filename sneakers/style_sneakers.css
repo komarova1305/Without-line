@@ -66,16 +66,7 @@ body {background: #F1F1F1; margin: 0;}
     width: 73%;
 }
 
-.footer_links {
-    list-style: none;
-    display:flex;
-    font-size: 20px;
-    font-weight: 700px;
-    line-height: 20px;
-    gap: 24px;
-}
-
-.header_links{
+ul {
     list-style: none;
     display:flex;
     font-size: 20px;
