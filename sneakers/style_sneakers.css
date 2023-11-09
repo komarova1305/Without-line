@@ -16,13 +16,13 @@
 	justify-content: space-between;
 	align-items: center;
 	height: Hug (156px);
-	width: 117%;
+	width: 140%;
 	background: red;
 	}
 .footer_container {
 	width: Fill (343px);
 	height: Hug (195px);
-	flex-direction: column; 
+	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
 	width: 117%;
