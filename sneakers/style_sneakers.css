@@ -15,7 +15,8 @@
 	justify-content: space-between;
 	align-content: space-between;
 	align-items: center;
-	padding: 0 16px;
+	max-width: 768px;
+	padding: 0px 16px;
 	background: green;
 	}
 .footer_container {
@@ -23,7 +24,8 @@
 	justify-content: space-between;
 	justify-content: space-between;
 	align-items: center;
-	padding: 0 16px;
+	max-width: 768px;
+	padding: 0px 16px;
 	}
 
 .subtitle {font-size: 32px;}
