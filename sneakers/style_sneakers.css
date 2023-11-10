@@ -74,7 +74,7 @@ body {background: #F1F1F1; margin: 0 auto;}
     padding: 0 150px;
 }
 
-li {display: inline;
+li {display: inline-flex;
     list-style: none;
     font-size: 20px;
     font-weight: 700px;
