@@ -37,7 +37,7 @@ r@font-face {
 .main_content {
     max-width: 768px;
     box-sizing: border-box;
-    padding: 24px 16px;
+    padding: 0 16px;
 	}
 }
 
@@ -46,9 +46,11 @@ a {text-decoration: none; color:black;}
 body {background: #F1F1F1;}
 
 .main_content {
+    display: flex;
     margin: 0 auto;
     max-width: 1300px;
-    padding: 32px 150px; 
+    padding: 0 150px;
+    gap: 24px;
 }
 
 .header {
