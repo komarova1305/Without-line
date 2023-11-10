@@ -50,6 +50,7 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     background: white;
     width: 100%
+    border-bottom: 1px solid #c7c7c7;
 }
 
 .footer {
@@ -117,11 +118,6 @@ li {display: inline;
     border: none;
     border-top: 1px solid #c7c7c7;
     width: 73%;
-}
-
-.header_line {
-    border: none;
-    border-top: 1px solid #c7c7c7;
 }
 
 .subtitle {
