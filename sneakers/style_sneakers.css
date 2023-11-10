@@ -17,7 +17,7 @@ r@font-face {
 	align-items: center;
 	max-width: 768px;
 	width: 100%;
-	padding: 0px 16px;
+	padding: 32px 16px;
 	background: green;
 	}
 .footer_container {
@@ -26,7 +26,7 @@ r@font-face {
 	justify-content: space-between;
 	align-items: center;
 	max-width: 768px;
-	padding: 0px 16px;
+	padding: 32px 16px;
 	}
 
 .subtitle {font-size: 32px;}
@@ -64,7 +64,7 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    padding: 0 150px;
+    padding: 32px 150px;
 }
 
 .header_container {
