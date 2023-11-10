@@ -13,19 +13,16 @@ r@font-face {
 .header_container {
 	flex-direction: column;
 	justify-content: space-between;
-	align-content: space-between;
 	align-items: center;
-	max-width: 768px;
-	width: 100%;
+	box-sizing: border-box;
 	padding: 24px 16px;
-	background: green;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
-	justify-content: space-between;
 	align-items: center;
 	max-width: 768px;
+	box-sizing: border-box;
 	padding: 24px 16px;
 	}
 
@@ -36,6 +33,7 @@ r@font-face {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    box-sizing: border-box;
     padding: 24px 16px;
 	}
 }
