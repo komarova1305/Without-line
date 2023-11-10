@@ -112,10 +112,10 @@ li {display: inline;
     display: flex;
     color: #A1A6B4;
     text-align: center;
-    margin: 0 auto;
+    justify-content: center;
     margin: 0 150px;
     border-top: 1px solid white;
-    gap: 24px;
+    padding: 24px 0;
 }
 
 .subtitle {
