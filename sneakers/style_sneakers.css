@@ -47,6 +47,9 @@ body {background: #F1F1F1;}
 
 .main_content {
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     margin: 0 auto;
     max-width: 1300px;
     padding: 0 150px;
