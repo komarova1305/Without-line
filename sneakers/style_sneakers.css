@@ -23,12 +23,9 @@ r@font-face {
 	max-width: 768px;
     	margin: 0 16px !important;
 	}
-
+.footer_p {margin: 0 16px !important;}
 .subtitle {font-size: 32px !important;}
-
-.content {
-	margin: 32px 16px;
-}
+.content {margin: 32px 16px;}
 }
 
 a {text-decoration: none; color:black;}
