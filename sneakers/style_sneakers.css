@@ -150,6 +150,7 @@ li {display: inline;
     justify-content: flex-start;
     align-items: center;
     gap: 32px;
+    margin: 0 auto;
 }
 
 .big_container {
