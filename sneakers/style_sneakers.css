@@ -82,6 +82,15 @@ li {display: inline-flex;
     gap: 24px;
 }
 
+ul {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 20px;
+    gap: 24px;
+}
+
 .footer_links {
     display: inline;
     list-style: none;
