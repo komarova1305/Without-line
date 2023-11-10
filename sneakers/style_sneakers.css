@@ -14,12 +14,16 @@ r@font-face {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
+	box-sizing: border-box;
+	padding: 24px 16px;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
 	max-width: 768px;
+	box-sizing: border-box;
+	padding: 24px 16px;
 	}
 
 .subtitle {font-size: 32px;}
@@ -29,9 +33,6 @@ r@font-face {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-	}
-.content {
-    max-width: 768px;
     box-sizing: border-box;
     padding: 24px 16px;
 	}
@@ -39,17 +40,7 @@ r@font-face {
 
 a {text-decoration: none; color:black;}
 
-body {background: #F1F1F1;}
-
-.main_content {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 auto;
-    max-width: 1300px;
-    gap: 24px;
-}
+body {background: #F1F1F1; margin: 0 auto;}
 
 .header {
     background-color: white;
@@ -155,7 +146,8 @@ ul {
      display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 auto;
+    max-width: 1300px;
+    padding: 32px 150px;
 }
 
 .content {
@@ -163,9 +155,8 @@ ul {
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
-    gap: 24px;
-    max-width: 1300px;
-    padding: 24px 150px;
+    gap: 32px;
+    margin: 0 auto;
 }
 
 .big_container {
@@ -208,5 +199,3 @@ ul {
 .img_sneakers {
     width: 371px;
     height: 254px;
-    border-radius: 12px, 12px, 0px, 0px;
-}
