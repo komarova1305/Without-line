@@ -15,7 +15,7 @@ r@font-face {
 	justify-content: space-between;
 	align-items: center;
 	box-sizing: border-box;
-    	margin: 0 150px;
+    	margin: 0 16px;
 	}
 .footer_container {
 	flex-direction: column;
@@ -23,10 +23,10 @@ r@font-face {
 	align-items: center;
 	max-width: 768px;
 	box-sizing: border-box;
-    	margin: 0 150px;
+    	margin: 0 16px;
 	}
 
-.subtitle {font-size: 32px;}
+.subtitle {font-size: 32px !important;}
 
 .content {
 	margin: 32px 16px;
