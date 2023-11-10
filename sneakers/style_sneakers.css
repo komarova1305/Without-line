@@ -149,7 +149,7 @@ li {display: inline;
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
-    gap: 24px;
+    gap: 32px;
 }
 
 .big_container {
