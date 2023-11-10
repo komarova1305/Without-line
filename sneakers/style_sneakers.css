@@ -16,6 +16,7 @@ r@font-face {
 	align-content: space-between;
 	align-items: center;
 	max-width: 768px;
+	width: 100%;
 	padding: 0px 16px;
 	background: green;
 	}
@@ -36,7 +37,6 @@ r@font-face {
     justify-content: center;
     align-items: center;
     padding: 32px 16px;
-    margin: 0 auto;
 	}
 }
 
