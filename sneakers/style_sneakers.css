@@ -15,7 +15,7 @@ r@font-face {
 	justify-content: space-between;
 	align-items: center;
 	box-sizing: border-box;
-	padding: 24px 16px;
+    	margin: 32px 150px;
 	}
 .footer_container {
 	flex-direction: column;
@@ -23,19 +23,11 @@ r@font-face {
 	align-items: center;
 	max-width: 768px;
 	box-sizing: border-box;
-	padding: 24px 16px;
+    	margin: 32px 150px;
 	}
 
 .subtitle {font-size: 32px;}
-	
-.main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    padding: 24px 16px;
-	}
+
 .content {
 	margin: 32px 16px;
 }
@@ -65,14 +57,16 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    padding: 24px 150px;
+    max-width: 1300px;
+    margin: 32px 150px;
 }
 
 .header_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    padding: 24px 150px;
+    max-width: 1300px;
+    margin: 32px 150px;
 }
 
 li {display: inline-flex;
