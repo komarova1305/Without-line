@@ -66,6 +66,7 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     justify-content: space-between; 
     padding: 16px 150px;
+    margin: 0 auto;
 }
 
 .header_container {
@@ -73,6 +74,7 @@ body {background: #F1F1F1; margin: 0;}
     align-items: center;
     justify-content: space-between; 
     padding: 16px 150px;
+    margin: 0 auto;
 }
 
 li {display: inline;
