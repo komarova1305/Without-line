@@ -14,16 +14,14 @@ r@font-face {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	box-sizing: border-box;
-    	margin: 0 16px;
+    	margin: 0 16px !important;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
 	max-width: 768px;
-	box-sizing: border-box;
-    	margin: 0 16px;
+    	margin: 0 16px !important;
 	}
 
 .subtitle {font-size: 32px !important;}
