@@ -71,6 +71,18 @@ body {background: #F1F1F1;}
     width: 100%
 }
 
+.footer_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+.header_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
 li {display: inline-flex;
     list-style: none;
     font-size: 20px;
