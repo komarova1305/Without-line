@@ -42,7 +42,7 @@ r@font-face {
 
 a {text-decoration: none; color:black;}
 
-body {background: #F1F1F1; margin: 0;}
+body {background: #F1F1F1; margin: 0 auto;}
 
 .header {
     display: block;
