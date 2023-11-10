@@ -22,6 +22,7 @@ r@font-face {
 	align-items: center;
 	max-width: 768px;
     	margin: 0 16px !important;
+	padding: 24px 0 0 0;
 	}
 .footer_p {margin: 0 16px !important;}
 .subtitle {font-size: 32px !important;}
