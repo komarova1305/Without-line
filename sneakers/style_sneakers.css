@@ -109,6 +109,7 @@ li {display: inline;
 }
 
 .footer_p {
+    display: flex;
     color: #A1A6B4;
     text-align: center;
     margin: 0 auto;
