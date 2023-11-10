@@ -34,7 +34,7 @@ r@font-face {
     justify-content: center;
     align-items: center;
 	}
-.content {
+.main_content {
     max-width: 768px;
     box-sizing: border-box;
     padding: 24px 16px;
@@ -43,7 +43,13 @@ r@font-face {
 
 a {text-decoration: none; color:black;}
 
-body {background: #F1F1F1; margin: 0 auto;}
+body {background: #F1F1F1;}
+
+.main_content {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 32px 150px; 
+}
 
 .header {
     background-color: white;
@@ -157,9 +163,6 @@ ul {
     justify-content: flex-start;
     align-items: center;
     gap: 32px;
-    margin: 0 auto;
-    max-width: 1300px;
-    padding: 32px 150px;
 }
 
 .big_container {
