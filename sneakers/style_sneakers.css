@@ -169,7 +169,7 @@ li {display: inline;
     min-height: 72px;
     max-width: 371px;
     font-family: "Anonymous Pro", sans-serif;
-    justify-content: space-between; 
+    justify-content: flex-start;
     border-radius: 12px;
 }
 
