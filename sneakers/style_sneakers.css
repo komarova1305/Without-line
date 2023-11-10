@@ -116,12 +116,6 @@ li {display: inline;
     text-align: center;
 }
 
-.footer_line {
-    border: none;
-    border-top: 1px solid #c7c7c7;
-    width: 73%;
-}
-
 .subtitle {
     font-family: "Anonymous Pro", sans-serif;
     font-size: 48px;
