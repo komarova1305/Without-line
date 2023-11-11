@@ -36,6 +36,7 @@
 	padding: 24px;
 	}
 .page_container {
+	background: red;
 	max-width: 295px;
 	gap: 24px;
 	}
