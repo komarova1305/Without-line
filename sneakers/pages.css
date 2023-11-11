@@ -169,7 +169,7 @@ ul {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    max-width: 1,044px;
+    max-width: 1044px;
     width: 100%;
     gap: 24px;
 }
@@ -178,7 +178,7 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: Fill (1,044px);
+    width: Fill (1044px);
     gap: 24px;
 }
 
