@@ -24,7 +24,8 @@
 	max-width: 768px;
     	margin: 0 16px !important;
 	padding: 24px 0 0 0 !important;
-	}
+.big_title {font-size: 32px;}
+.big_subtitle {font-size: 20px;}
 }
 
 
