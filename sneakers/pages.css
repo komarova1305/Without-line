@@ -44,6 +44,8 @@
 	max-width: 295px;
 	gap: 24px;
 	}
+.big_text {font-size: 24px !important;}
+.elem {font-size: 16px !important;}
 }
 
 
