@@ -31,13 +31,13 @@
 	border-radius: 12px, 12px, 0px, 0px !important;
 	}
 .page_content {
-	max-width: 343px;
+	max-width: 343px !important;
 	border-radius: 12px;
 	padding: 24px;
 	}
 .page_container {
 	background: red;
-	max-width: 295px;
+	max-width: 295px !important;
 	gap: 24px;
 	}
 	
