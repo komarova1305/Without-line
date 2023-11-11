@@ -1,4 +1,4 @@
-r@font-face {
+@font-face {
     font-family: "Anonymous Pro";
     src: url(fonts/AnonymousPro-Bold.ttf);
     font-weight: 700;
@@ -196,3 +196,4 @@ ul {
 .img_sneakers {
     width: 371px;
     height: 254px;
+}
