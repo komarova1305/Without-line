@@ -46,6 +46,7 @@
 	flex-direction: column;
     	justify-content: center;
     	align-items: center;
+	background: red;
 	}
 	
 .big_text {font-size: 24px !important;}
@@ -150,7 +151,6 @@ ul {
 .main {
     display: flex;
     width: Fill (1,440px);
-    height: Hug (1,764px);
     justify-content: center;
     gap: 48px;
 }
@@ -160,7 +160,6 @@ ul {
     flex-direction: column;
     align-items: center;
     max-width:  1044px;;
-    height: Hug (1,700px);
     margin: 32px 0px;
     padding: 48px;
     border-radius: 50px;
@@ -174,7 +173,6 @@ ul {
     justify-content: space-between;
     max-width: 1,044px;
     width: 100%;
-    height: Hug (972px);
     gap: 24px;
 }
 
@@ -183,7 +181,6 @@ ul {
     flex-direction: row;
     justify-content: space-between;
     width: Fill (1,044px);
-    height: Hug (972px);
     gap: 24px;
 }
 
