@@ -38,12 +38,16 @@
 	padding: 24px;
 	}
 .page_container {
-	flex-direction: column;
-    	justify-content: center;
-    	align-items: center;
 	max-width: 295px;
 	gap: 24px;
 	}
+	
+.big_additional-info {
+	flex-direction: column;
+    	justify-content: center;
+    	align-items: center;
+	}
+	
 .big_text {font-size: 24px !important;}
 .elem {font-size: 16px !important;}
 .big_parametrs-header {font-size: 24px !important;}
