@@ -29,7 +29,6 @@
 .big_subtitle {font-size: 20px !important;}
 .page_img {
 	width: 295px !important;
-	height: 172px !important;
 	border-radius: 12px, 12px, 0px, 0px !important;
 	}
 .page_content {
@@ -43,10 +42,9 @@
 	}
 	
 .big_additional-info {
-	flex-direction: column;
+	flex-direction: column !important;
     	justify-content: center;
     	align-items: center;
-	background: red;
 	}
 	
 .big_text {font-size: 24px !important;}
