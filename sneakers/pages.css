@@ -149,7 +149,7 @@ ul {
 
 .main {
     display: flex;
-    width: Fill (1,440px);
+    width: Fill (1440px);
     justify-content: center;
     gap: 48px;
 }
