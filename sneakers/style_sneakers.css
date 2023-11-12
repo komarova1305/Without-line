@@ -204,5 +204,5 @@ ul {
 .img_sneakers {
     width: 371px;
     height: 254px;
-    border-radius: 12px 0;
+    border-radius: 12px 12px 0 0;
 }
