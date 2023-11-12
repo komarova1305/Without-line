@@ -24,7 +24,7 @@
 	max-width: 768px;
     	margin: 0 16px !important;
 	padding: 24px 0 0 0 !important;}
-	
+.footer_p {max-width: 768px !important; margin: 0 16px !important;}
 .big_title {font-size: 32px !important;}
 .big_subtitle {font-size: 20px !important;}
 .page_img {
