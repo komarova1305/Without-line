@@ -28,7 +28,7 @@
 .big_title {font-size: 32px !important;}
 .big_subtitle {font-size: 20px !important;}
 .page_img {
-	max-width: 100%;
+	max-width: 100% !important;
 	border-radius: 12px, 12px, 0px, 0px !important;
 	}
 .page_content {
