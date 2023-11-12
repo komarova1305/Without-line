@@ -33,9 +33,9 @@
 	}
 .page_content {
 	max-width: 343px !important;
-	border-radius: 12px;
+	border-radius: 12px !important;
 	margin: 32px 24px !important;
-	padding: 24px;
+	padding: 24px !important;
 	}
 .page_container {
 	max-width: 295px !important;
