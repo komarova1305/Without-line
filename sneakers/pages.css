@@ -31,7 +31,7 @@
 	width: 100%;
 	border-radius: 12px, 12px, 0px, 0px !important;
 	}
-.main {width: 100%;}
+.main {width: 100%; padding: 24px;}
 .page_content {
 	max-width: 343px !important;
 	border-radius: 12px;
