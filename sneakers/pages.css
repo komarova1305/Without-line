@@ -24,7 +24,7 @@
 	max-width: 768px;
     	margin: 0 16px !important;
 	padding: 24px 0 0 0 !important;}
-.footer_p {max-width: 768px !important; margin: 0 16px !important;}
+.footer_p {max-width: 768px !important; margin: 0 24px !important;}
 .big_title {font-size: 32px !important;}
 .big_subtitle {font-size: 20px !important;}
 .page_img {
@@ -34,7 +34,7 @@
 .page_content {
 	max-width: 343px !important;
 	border-radius: 12px;
-	padding: 24px;
+	margin: 32px 24px !important;
 	}
 .page_container {
 	max-width: 295px !important;
