@@ -175,14 +175,14 @@ ul {
 .header_container {
 	flex-direction: column;
 	justify-content: space-between;
-	align-items: center;
+	align-items: center !important; 
     	margin: 0 16px !important;
 	padding: 24px 0 0 0 !important;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
-	align-items: center;
+	align-items: center !important;
 	max-width: 768px;
     	margin: 0 16px !important;
 	padding: 24px 0 0 0 !important;
