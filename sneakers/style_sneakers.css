@@ -132,7 +132,7 @@ ul {
     display: flex;
     flex-direction: column;
     min-height: 72px;
-    max-width: 371px;
+    max-width: 364px;
     font-family: "Anonymous Pro", sans-serif;
     justify-content: flex-start;
     border-radius: 12px;
@@ -149,7 +149,7 @@ ul {
 .text {
     background: white;
     display: inline-block;
-    max-width: 371px;
+    max-width: 364px;
     flex-direction: column;
     border-radius: 0 0 12px 12px;
     padding: 0 24px;
@@ -166,7 +166,7 @@ ul {
 }
 
 .img_sneakers {
-    width: 371px;
+    width: 364px;
     height: 254px;
     border-radius: 12px 12px 0 0;
 }
