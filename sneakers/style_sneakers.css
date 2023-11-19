@@ -95,15 +95,6 @@ ul {
     letter-spacing: 0em;
 }
 
-.logo {width: 212.34px;
-    height: 63.24px;
-    }
-
-.logo2 {
-    width: 299.65px;
-    height: 22.32px;
-}
-
 .main {
      display: flex;
     flex-direction: column;
