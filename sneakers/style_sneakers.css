@@ -3,6 +3,7 @@ a {text-decoration: none; color:black;}
 body {background: #F1F1F1; margin: 0 auto;}
 
 .header {
+    display: flex;
     background-color: white;
     flex-direction: column;
     justify-content: center;
@@ -13,6 +14,7 @@ body {background: #F1F1F1; margin: 0 auto;}
 }
 
 .footer {
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -24,17 +26,17 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    max-width: 1300px;
+    max-width: 1140px;
     padding: 24px 0;
     margin: 0 150px;
-    font-family: "Anonymous Pro" sans-serif;
+    font-family: "Anonymous Pro", sans-serif;
 }
 
 .header_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    max-width: 1300px;
+    max-width: 1140px;
     padding: 24px 0;
     margin: 0 150px;
     font-family: "Anonymous Pro" sans-serif;
