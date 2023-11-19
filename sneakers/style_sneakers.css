@@ -24,7 +24,6 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    max-width: 1140px;
     padding: 24px 0;
     margin: 0 150px;
     font-family: "Anonymous Pro", sans-serif;
@@ -34,7 +33,6 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-    max-width: 1140px;
     padding: 24px 0;
     margin: 0 150px;
     font-family: "Anonymous Pro" sans-serif;
