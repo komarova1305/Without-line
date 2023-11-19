@@ -174,20 +174,20 @@ ul {
 .header_container {
 	flex-direction: column;
 	justify-content: space-between;
-	align-items: center !important; 
-    	margin: 0 16px !important;
-	padding: 24px 0 0 0 !important;
+	align-items: center; 
+    	margin: 0 16px;
+	padding: 24px 0 0 0;
 	}
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
-	align-items: center !important;
+	align-items: center;
 	max-width: 768px;
-    	margin: 0 16px !important;
-	padding: 24px 0 0 0 !important;
+    	margin: 0 16px;
+	padding: 24px 0 0 0;
 	}
-.footer_p {margin: 0 16px !important;}
-.subtitle {font-size: 32px !important;}
+.footer_p {margin: 0 16px;}
+.subtitle {font-size: 32px;}
 .content {margin: 32px 16px;}
 }
 
