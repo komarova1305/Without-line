@@ -168,8 +168,9 @@ ul {
 }
 
 .img_sneakers {
-    width: 364px;
+    max-width: 364px;
     border-radius: 12px 12px 0 0;
+    width: 100%;
 }
 
 @media (max-width: 768px) {
