@@ -24,6 +24,7 @@ body {background: #F1F1F1; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    max-width: 1140px;
     padding: 24px 0;
     margin: 0 150px;
     font-family: "Anonymous Pro", sans-serif;
@@ -34,6 +35,7 @@ body {background: #F1F1F1; margin: 0 auto;}
     align-items: center;
     justify-content: space-between; 
     padding: 24px 0;
+    max-width: 1140px;
     margin: 0 150px;
     font-family: "Anonymous Pro" sans-serif;
 }
@@ -105,7 +107,7 @@ ul {
     justify-content: flex-start;
     align-items: center;
     gap: 32px;
-    max-width: 1300px;
+    max-width: 1140px;
     margin: 32px 150px;
 }
 
