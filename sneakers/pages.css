@@ -9,51 +9,6 @@
   src: url(fonts/AnonymousPro-Regular.ttf);
 }
 
-@media (max-width: 768px) {
-.header_container {
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;
-    	margin: 0 16px !important;
-	padding: 24px 0 0 0 !important;
-	}
-.footer_container {
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;
-	max-width: 768px;
-    	margin: 0 16px !important;
-	padding: 24px 0 0 0 !important;}
-.footer_p {max-width: 768px !important; margin: 0 24px !important;}
-.big_title {font-size: 32px !important;}
-.big_subtitle {font-size: 20px !important;}
-.page_img {
-	width: 100%;
-	border-radius: 12px, 12px, 0px, 0px !important;
-	}
-.page_content {
-	max-width: 343px !important;
-	border-radius: 12px !important;
-	margin: 32px 24px !important;
-	padding: 24px !important;
-	}
-.page_container {
-	max-width: 295px !important;
-	gap: 24px;
-	}
-	
-.big_additional-info {
-	flex-direction: column !important;
-    	justify-content: center;
-    	align-items: center;
-	}
-	
-.big_text {font-size: 16px !important;}
-.elem {font-size: 16px !important;}
-.big_parametrs-header {font-size: 24px !important;}
-}
-
-
 a {text-decoration: none; color:black;}
 
 body {background: #F1F1F1; margin: 0 auto;}
@@ -261,3 +216,48 @@ ul {
 .page_img {
     border-radius: 50px, 50px, 0px, 0px;
 }
+
+@media (max-width: 768px) {
+.header_container {
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+    	margin: 0 16px;
+	padding: 24px 0 0 0;
+	}
+.footer_container {
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 768px;
+    	margin: 0 16px;
+	padding: 24px 0 0 0;}
+.footer_p {max-width: 768px; margin: 0 24px;}
+.big_title {font-size: 32px;}
+.big_subtitle {font-size: 20px;}
+.page_img {
+	width: 100%;
+	border-radius: 12px, 12px, 0px, 0px;
+	}
+.page_content {
+	max-width: 343px;
+	border-radius: 12px;
+	margin: 32px 24px;
+	padding: 24px;
+	}
+.page_container {
+	max-width: 295px;
+	gap: 24px;
+	}
+	
+.big_additional-info {
+	flex-direction: column;
+    	justify-content: center;
+    	align-items: center;
+	}
+	
+.big_text {font-size: 16px;}
+.elem {font-size: 16px;}
+.big_parametrs-header {font-size: 24px;}
+}
+
